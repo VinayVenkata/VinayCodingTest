@@ -1,0 +1,6 @@
+framework module Pods_VinayCodingTestTests {
+  umbrella header "Pods-VinayCodingTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
